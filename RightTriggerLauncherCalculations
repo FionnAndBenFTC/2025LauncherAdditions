@@ -1,0 +1,8 @@
+DO NOT ADD
+
+I had some ideas last time. The right trigger will only go from between 0.30 and 0.50
+The math to do this is:
+
+double calcLauncherSpeed = 0.30 + rightTrigger/5
+
+The "rightTrigger" variable may be incorrect. Please refrence the proper robot code.
